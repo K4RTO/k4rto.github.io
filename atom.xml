@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://connuts.com</id>
     <title>Connuts</title>
-    <updated>2020-08-21T16:49:52.526Z</updated>
+    <updated>2020-08-21T16:51:54.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://connuts.com"/>
     <link rel="self" href="https://connuts.com/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://connuts.com/favicon.ico</icon>
     <rights>All rights reserved 2020, Connuts</rights>
     <entry>
-        <title type="html"><![CDATA[Web端游戏引擎概述01]]></title>
+        <title type="html"><![CDATA[游戏引擎概述01]]></title>
         <id>https://connuts.com/post/Engine0/</id>
         <link href="https://connuts.com/post/Engine0/">
         </link>
